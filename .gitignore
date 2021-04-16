@@ -1,5 +1,4 @@
 coverage/
 .fdk/
-dist/
-.report.json
+fdk.report.json
 server/test_data/
