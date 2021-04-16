@@ -88,7 +88,7 @@ exports = {
           function (error) {
             if (error.status == 404) {
               console.log(
-                "Record has not been created in Airtable for requester"
+                "Record has not been created in FreshService for requester"
               );
 
               createclient(payload)
