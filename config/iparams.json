@@ -1,0 +1,16 @@
+{
+  "apikey": {
+    "display_name": "Airtable API key",
+    "description": "Please enter your Airtable API Key",
+    "type": "text",
+    "required": true,
+    "secure": true
+  },
+  "apiurl": {
+    "display_name": "Airtable API URL",
+    "description": "Please enter your Airtable URL for Shipping Information e.g.: https://api.airtable.com/v0/xxyyzz/Shipping Information",
+    "type": "url",
+    "required": true,
+    "secure": true
+  }
+}

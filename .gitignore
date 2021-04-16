@@ -1,0 +1,5 @@
+coverage/
+.fdk/
+dist/
+.report.json
+server/test_data/
