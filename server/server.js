@@ -87,9 +87,7 @@ exports = {
           },
           function (error) {
             if (error.status == 404) {
-              console.log(
-                "Record has not been created in Airtable for requester"
-              );
+              console.log("Record has not been created in bhima for requester");
 
               createclient(payload)
                 .then(function (msg) {
